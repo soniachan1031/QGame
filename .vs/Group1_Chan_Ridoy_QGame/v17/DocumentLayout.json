@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA598D81-5358-42A6-A74C-F1A2444F5A0B}|Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame.csproj|c:\\workspace\\sem 3\\prog2370 game programming with data structures\\assignment\\assignment 3\\group1_chan_ridoy_qgame\\group1_chan_ridoy_qgame\\qgameplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA598D81-5358-42A6-A74C-F1A2444F5A0B}|Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame.csproj|solutionrelative:group1_chan_ridoy_qgame\\qgameplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA598D81-5358-42A6-A74C-F1A2444F5A0B}|Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame.csproj|C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\group1_chan_ridoy_qgame\\qgameplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA598D81-5358-42A6-A74C-F1A2444F5A0B}|Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame.csproj|solutionrelative:group1_chan_ridoy_qgame\\qgameplayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27152E5-6086-4A44-A805-DC1EBB4ECA09}|QGame_Library\\QGame_Library.csproj|C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\qgame_library\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27152E5-6086-4A44-A805-DC1EBB4ECA09}|QGame_Library\\QGame_Library.csproj|solutionrelative:qgame_library\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA598D81-5358-42A6-A74C-F1A2444F5A0B}|Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame.csproj|C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\group1_chan_ridoy_qgame\\qgamedesignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA598D81-5358-42A6-A74C-F1A2444F5A0B}|Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame.csproj|solutionrelative:group1_chan_ridoy_qgame\\qgamedesignform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 575,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QGamePlayForm.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs",
+              "RelativeDocumentMoniker": "Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs",
+              "RelativeToolTip": "Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAQwNMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:56:52.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QGamePlayForm.cs [Design]",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs",
+              "RelativeDocumentMoniker": "Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs [Design]",
+              "RelativeToolTip": "Group1_Chan_Ridoy_QGame\\QGamePlayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:46:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QGameDesignForm.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame\\QGameDesignForm.cs",
+              "RelativeDocumentMoniker": "Group1_Chan_Ridoy_QGame\\QGameDesignForm.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\Group1_Chan_Ridoy_QGame\\QGameDesignForm.cs",
+              "RelativeToolTip": "Group1_Chan_Ridoy_QGame\\QGameDesignForm.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:25:49.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\QGame_Library\\GameManager.cs",
+              "RelativeDocumentMoniker": "QGame_Library\\GameManager.cs",
+              "ToolTip": "C:\\Workspace\\Sem 3\\PROG2370 Game Programming with Data Structures\\Assignment\\Assignment 3\\Group1_Chan_Ridoy_QGame\\QGame_Library\\GameManager.cs",
+              "RelativeToolTip": "QGame_Library\\GameManager.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAACsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:20:33.879Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 482,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
