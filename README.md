@@ -1,4 +1,4 @@
-## This QGame is built in C# only. 
+## This QGame is built in C# WinForm. 
 
 <p><b>Main Panel:</b></p>
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/483f3ed3-8141-4c4c-ba01-e0591b5427a1" />
