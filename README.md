@@ -42,7 +42,6 @@ QGame is a tile-based puzzle platform that offers both **design** and **gameplay
 ## 🧑‍💻 Technologies Used
 - **Language**: C#
 - **Framework**: .NET Windows Forms (WinForms)
-- **Design Tools**: Visual Studio Designer UI
 
 ---
 
